@@ -1,5 +1,8 @@
 *.pdf
 *.txt
+*.py
+z-*.doc
 old/
 pictures/
 v1/
+v2/
