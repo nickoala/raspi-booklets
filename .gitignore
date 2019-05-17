@@ -1,5 +1,4 @@
 *.txt
-*.py
 z-*.doc
 old/
 pictures/
@@ -7,3 +6,5 @@ v1/
 v2/
 vx/
 ansi/
+C/*.py
+.remote-sync.json
